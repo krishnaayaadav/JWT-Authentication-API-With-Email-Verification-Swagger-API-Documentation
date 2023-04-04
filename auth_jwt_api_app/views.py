@@ -123,5 +123,8 @@ class ChangePasswordAPIView(APIView):
       token = str(request.headers.get('authorization')).split(' ')[1]
       user_id   = get_current_user_from_token(token)
       
+      ##### Current Working On to complete it ######
+            # Thank You
+      
       
       pass
