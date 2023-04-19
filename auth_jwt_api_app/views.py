@@ -114,17 +114,3 @@ class DashboardAPIView(APIView):
       
       return Response(response, status=status.HTTP_200_OK)
    
-class ChangePasswordAPIView(APIView):
-   
-   authentication_classes = [JWTAuthentication]
-   permission_classes     = [IsAuthenticated]
-   
-   def post(self, request, format=None):
-      token = str(request.headers.get('authorization')).split(' ')[1]
-      user_id   = get_current_user_from_token(token)
-      
-      ##### Current Working On to complete it ######
-            # Thank You
-      
-      
-      pass
