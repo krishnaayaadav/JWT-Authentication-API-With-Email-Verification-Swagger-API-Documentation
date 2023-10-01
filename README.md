@@ -1,11 +1,12 @@
 # JWT Authentication API With Email Verification Swagger Documentation
 JWT-based token authentication SignUp functions, email activation, login with an access token and refresh token to refresh the access token dashboard, change the password, and forget the password.
+### Project Live at: https://restfulcrudapi.pythonanywhere.com/expense/api/docs
+
 
 #
 ![JWT-Authetncation-API-With-Email-Verification-Swagger](https://github.com/krishnapb01/Advance-JWT-Authenticaion/assets/123397686/23f995af-a81d-4ae4-84a0-872b07d8a714)
 
 ## YouTube Video: https://www.youtube.com/watch?v=eqHIRR-mVE0&t=4s
-Project Live at: https://restfulcrudapi.pythonanywhere.com/expense/api/docs
 
 ![JWT-Hemepage](https://github.com/krishnapb01/Advance-JWT-Authenticaion/assets/123397686/457e8a6b-67a8-4356-bf2e-3f0d8641422b)
 ![All-API-Endpoints](https://github.com/krishnapb01/Advance-JWT-Authenticaion/assets/123397686/c47b7eb1-a8ea-4780-ab5c-c7fff6859d84)
